@@ -1,0 +1,8 @@
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\bin\Debug\IDispopsableAss.exe.config
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\bin\Debug\IDispopsableAss.exe
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\bin\Debug\IDispopsableAss.pdb
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\obj\Debug\IDispopsableAss.csproj.AssemblyReference.cache
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\obj\Debug\IDispopsableAss.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\obj\Debug\IDispopsableAss.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\obj\Debug\IDispopsableAss.exe
+D:\Simplilearn\Day 9\Assignment\IDispopsableAss\IDispopsableAss\obj\Debug\IDispopsableAss.pdb
